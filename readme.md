@@ -9,7 +9,7 @@ This project uses the Pima Indians Diabetes Dataset to predict whether a patient
 
 ## SCREENSHOT
 
-![ DIAGRAM ](https://github.com/Shaun-Roy/PREFIX-BASED-AUTOCOMPLETE/blob/main/screenshots%20for%20readme/Screenshot%202025-04-23%20141327.png)
+![ DIAGRAM ](FrontEndSS.png)
 
 
 
